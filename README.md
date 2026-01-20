@@ -8,7 +8,7 @@
 <!-- Typing Animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Hey+there!+I'm+Jeremiah+Jefry+%F0%9F%91%8B;Full-Stack+Developer+%7C+Tech+Enthusiast;Building+Amazing+Web+Experiences+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Hey+there!+I'm+Jeremiah+Jefry+%F0%9F%91%8B;Full-Stack+Developer+%7C)](https://git.io/typing-svg)
 
 </div>
 
