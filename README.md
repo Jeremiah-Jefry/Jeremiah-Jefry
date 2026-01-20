@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header with Matching Footer Background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=JEREMIAH%20JEFRY&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast%20%26%20Problem%20Solver&descAlignY=52&descSize=20&descAlign=50" />
+<!-- Animated Header with Visible Background -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=JEREMIAH%20JEFRY&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Tech%20Enthusiast%20%26%20Problem%20Solver&descAlignY=60&descSize=18&descAlign=50" />
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
