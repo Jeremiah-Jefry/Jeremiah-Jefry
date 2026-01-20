@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Visible Background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=JEREMIAH%20JEFRY&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Tech%20Enthusiast%20%26%20Problem%20Solver&descAlignY=60&descSize=18&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667EEA,100:764BA2&height=300&section=header&text=JEREMIAH%20JEFRY&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Tech%20Enthusiast%20%26%20Problem%20Solver&descAlignY=60&descSize=18&descAlign=50" />
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -169,11 +169,15 @@ I love building beautiful, functional web applications and turning complex probl
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Activity & Contributions
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeremiah-Jefry&theme=tokyonight" width="100%" alt="Contribution Graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeremiah-Jefry/Jeremiah-Jefry/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeremiah-Jefry/Jeremiah-Jefry/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jeremiah-Jefry/Jeremiah-Jefry/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -225,6 +229,6 @@ I love building beautiful, functional web applications and turning complex probl
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
 
 <!-- Footer with wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667EEA,100:764BA2&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
