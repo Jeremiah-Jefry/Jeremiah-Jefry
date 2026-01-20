@@ -137,6 +137,18 @@ const jeremiah = {
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeremiah-Jefry/Jeremiah-Jefry/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeremiah-Jefry/Jeremiah-Jefry/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jeremiah-Jefry/Jeremiah-Jefry/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ### 🎯 Core Competencies
 
 <table align="center">
@@ -216,16 +228,6 @@ const jeremiah = {
 
 ➡️ [Read more on Medium](https://medium.com/@chijiokeokorji)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Jeremiah-Jefry&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF&layout=compact)
-
-</div>
 
 ---
 
