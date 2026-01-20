@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Hey+there+I+am+Jeremiah+Jefry;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Hey+there!+I'm+Jeremiah+Jefry;Full-Stack+Developer+%7C+Tech+Enthusiast;Building+Amazing+Web+Experiences" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -46,22 +46,7 @@ I love building beautiful, functional web applications and turning complex probl
 
 <br clear="right"/>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Current Focus
-
-<img align="right" alt="Data Science" width="380" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
-- 🔭 Working on **Full-Stack Web Development Projects**
-- 🌱 Learning **Data Science & Advanced Frameworks**
-- 👯 Open to collaborate on **Web Development & UI/UX**
-- 🤝 Contributing to **Open Source Communities**
-- 💬 Ask me about **Python, JavaScript, React, Node.js**
-- 📫 Reach me at **g.jeremiahjefry06@gmail.com**
-- ⚡ Fun fact: **I debug with print() and I'm proud of it!** 😄
-
-<br clear="right"/>
 
 <!-- Animated Tech Stack Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -226,7 +211,7 @@ I love building beautiful, functional web applications and turning complex probl
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
