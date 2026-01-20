@@ -201,11 +201,11 @@ I love building beautiful, functional web applications and turning complex probl
 </td>
 <td width="50%" valign="top">
 
-### 🚀 [Rocket Trajectory Simulator](https://github.com/Jeremiah-Jefry/Rocket-Trajectory-Simulator)
+### 🚀 [Rocket Trajectory Simulator](https://github.com/Jeremiah-Jefry/Rocket-Trajectory-Simlutaor)
 
 <div align="center">
 
-[![Rocket Simulator](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Rocket-Trajectory-Simulator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Jeremiah-Jefry/Rocket-Trajectory-Simulator)
+[![Rocket Simulator](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Rocket-Trajectory-Simlutaor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Jeremiah-Jefry/Rocket-Trajectory-Simlutaor)
 
 </div>
 
@@ -227,11 +227,11 @@ I love building beautiful, functional web applications and turning complex probl
 <tr>
 <td width="50%" valign="top">
 
-### 💬 [Community Messenger](https://github.com/Jeremiah-Jefry/__Community-Messenger__)
+### 💬 [Community Messenger](https://github.com/Jeremiah-Jefry/Community-Messenger)
 
 <div align="center">
 
-[![Community Messenger](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=__Community-Messenger__&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Jeremiah-Jefry/__Community-Messenger__)
+[![Community Messenger](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Community-Messenger&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Jeremiah-Jefry/Community-Messenger)
 
 </div>
 
@@ -251,25 +251,26 @@ I love building beautiful, functional web applications and turning complex probl
 </td>
 <td width="50%" valign="top">
 
-### 🎨 More Projects Coming Soon!
+### 📚 [Library Management System](https://github.com/Jeremiah-Jefry/Library-Management-System)
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
-
-**Currently working on exciting new projects!**
-
-Stay tuned for:
-- 🤖 AI-Powered Applications
-- 🌐 Full-Stack Web Solutions
-- 📱 Mobile-First Designs
-- 🎮 Interactive Experiences
+[![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Library-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Jeremiah-Jefry/Library-Management-System)
 
 </div>
 
-<br>
+**Comprehensive library management solution** for tracking books, members, and transactions. Streamline library operations with an intuitive interface.
 
-[![GitHub](https://img.shields.io/badge/Follow%20for%20Updates-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeremiah-Jefry)
+#### 🛠️ Built With:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=flat-square&logo=python&logoColor=blue)
+
+#### ✨ Key Features:
+- 📖 Book Management & Catalog
+- 👥 Member Registration & Tracking
+- 🔄 Issue & Return System
+- 📊 Reports & Analytics
 
 </td>
 </tr>
