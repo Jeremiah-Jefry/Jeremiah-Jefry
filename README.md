@@ -30,40 +30,19 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
-```python
-class JeremiahJefry:
-    def __init__(self):
-        self.name = "Jeremiah Jefry"
-        self.role = "Full-Stack Developer"
-        self.location = "Coimbatore, Tamil Nadu 🇮🇳"
-        self.passion = ["Tech Enthusiast", "Problem Solver", "Lifelong Learner"]
-        
-    def current_work(self):
-        return {
-            "working_on": "Web Development Projects 🌐",
-            "learning": ["Data Science 📊", "Advanced Web Frameworks 🚀"],
-            "collaborating_on": "Full-Stack Web Development & UI/UX Design",
-            "contributing_to": "Open Source Projects 💻"
-        }
-    
-    def tech_stack(self):
-        return {
-            "languages": ["Python 🐍", "JavaScript 💛", "Java ☕", "C"],
-            "frontend": ["HTML5", "CSS3", "JavaScript", "React ⚛️"],
-            "backend": ["Node.js", "Flask 🌶️", "Django 🎸"],
-            "ui_ux": ["Figma 🎨", "Adobe XD"],
-            "databases": ["MongoDB 🍃", "MySQL 🐬"],
-            "tools": ["Git", "GitHub", "VS Code", "AntiGravity 🚀"],
-            "currently_exploring": ["Data Science", "Machine Learning"]
-        }
-    
-    def fun_fact(self):
-        return "I turn coffee ☕ into code and bugs 🐛 into features!"
+Hey there! 👋 I'm **Jeremiah Jefry**, a passionate **Full-Stack Developer** from **Coimbatore, Tamil Nadu** 🇮🇳
 
-# Initialize
-me = JeremiahJefry()
-print(me.current_work())
-```
+I love building beautiful, functional web applications and turning complex problems into elegant solutions. Whether it's crafting intuitive user interfaces or architecting robust backend systems, I'm always excited to learn and create something amazing!
+
+<br>
+
+🔭 **Currently Working On:** Full-Stack Web Development Projects  
+🌱 **Currently Learning:** Data Science & Advanced Web Frameworks  
+👯 **Open to Collaborate:** Web Development & UI/UX Design Projects  
+💼 **Available For:** Freelance Work & Open Source Contributions  
+💬 **Ask Me About:** Python • JavaScript • React • Node.js • Django • Flask  
+📫 **Reach Me At:** g.jeremiahjefry06@gmail.com  
+⚡ **Fun Fact:** I turn coffee ☕ into code and bugs 🐛 into features!
 
 <br clear="right"/>
 
@@ -159,29 +138,10 @@ print(me.current_work())
 
 <div align="center">
 
-<a href="https://github.com/Jeremiah-Jefry/SkillSync">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=SkillSync&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/Jeremiah-Jefry/Rocket-Trajectory-Simulator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Rocket-Trajectory-Simulator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
+[![SkillSync](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=SkillSync&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Jeremiah-Jefry/SkillSync)
+[![Rocket Trajectory Simulator](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Rocket-Trajectory-Simulator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Jeremiah-Jefry/Rocket-Trajectory-Simulator)
 
-<br/><br/>
-
-<a href="https://github.com/Jeremiah-Jefry/__Community-Messenger__">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=__Community-Messenger__&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
-
-</div>
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jeremiah-Jefry&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Community Messenger](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=__Community-Messenger__&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Jeremiah-Jefry/__Community-Messenger__)
 
 </div>
 
