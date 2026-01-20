@@ -52,7 +52,7 @@ I love building beautiful, functional web applications and turning complex probl
 - 💼 **Available For:** Freelance Work & Open Source Contributions
 - 💬 **Ask Me About:** Python • JavaScript • React • Node.js • Django • Flask
 - 📫 **Reach Me At:** g.jeremiahjefry06@gmail.com
-- ⚡ **Fun Fact:** I turn coffee ☕ into code and bugs 🐛 into features!
+- ⚡ **Fun Fact:** I debug with console.log() and I'm not ashamed! Also, my Git commit history is 40% "fix typo" 😄
 
 </td>
 <td width="45%" valign="top">
@@ -350,11 +350,15 @@ I love building beautiful, functional web applications and turning complex probl
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💭 Random Dev Quote
+## 💭 Dev Quote
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br>
+
+**"Talk is cheap. Show me the code."** - *Linus Torvalds*
 
 </div>
 
