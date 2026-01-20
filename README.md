@@ -152,8 +152,15 @@ I love building beautiful, functional web applications and turning complex probl
 
 </div>
 
-<!-- Animated Separator -->
+<br>
+
+<!-- Animated Divider -->
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Featured Projects
 
@@ -217,8 +224,15 @@ I love building beautiful, functional web applications and turning complex probl
 
 </div>
 
-<!-- Animated Separator -->
+<br>
+
+<!-- Animated Divider -->
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Connect With Me
 
@@ -264,7 +278,9 @@ I love building beautiful, functional web applications and turning complex probl
 
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
 
-<!-- Footer with wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667EEA,100:764BA2&height=150&section=footer&animation=twinkling" width="100%"/>
+<br>
+
+<!-- Footer Wave -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=footer&animation=fadeIn)
 
 </div>
