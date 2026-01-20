@@ -185,7 +185,7 @@ I love building beautiful, functional web applications and turning complex probl
 
 </div>
 
-**A collaborative skill-sharing platform** where users can teach and learn from each other. Features include user authentication, skill browsing, and real-time messaging.
+**AI-powered portfolio and skill tracker** that syncs skills, projects, and learning progress into a living digital profile.
 
 #### 🛠️ Built With:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -209,7 +209,7 @@ I love building beautiful, functional web applications and turning complex probl
 
 </div>
 
-**Physics-based rocket trajectory simulator** with real-time visualization. Calculate and visualize rocket paths with accurate physics modeling.
+**Web-based rocket flight simulator** that calculates and animates trajectories from user-defined launch inputs with real physics (gravity + drag).
 
 #### 🛠️ Built With:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -235,7 +235,7 @@ I love building beautiful, functional web applications and turning complex probl
 
 </div>
 
-**Real-time community chat platform** built with modern web technologies. Connect with people, create channels, and communicate seamlessly.
+**Real-time, group-based chat platform** where users create communities, join channels, and message instantly with auth, history, and live presence.
 
 #### 🛠️ Built With:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -259,7 +259,7 @@ I love building beautiful, functional web applications and turning complex probl
 
 </div>
 
-**Comprehensive library management solution** for tracking books, members, and transactions. Streamline library operations with an intuitive interface.
+**Python-based library management desktop app** with Tkinter + MySQL for cataloging, circulation tracking, and fast book lookup.
 
 #### 🛠️ Built With:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
