@@ -1,32 +1,42 @@
+<!-- Header Banner -->
 <div align="center">
 
-<!-- Animated Header with Visible Background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667EEA,100:764BA2&height=300&section=header&text=JEREMIAH%20JEFRY&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Tech%20Enthusiast%20%26%20Problem%20Solver&descAlignY=60&descSize=18&descAlign=50" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=280&section=header&text=JEREMIAH%20JEFRY&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=20)
 
-<!-- Dynamic Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Hey+there!+I'm+Jeremiah+Jefry;Full-Stack+Developer+%7C+Tech+Enthusiast;Building+Amazing+Web+Experiences" alt="Typing SVG" />
-</a>
+</div>
 
-<br/>
+<!-- Typing Animation -->
+<div align="center">
 
-<!-- Animated Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jeremiah-Jefry&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development%20%26%20Data%20Science-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Available%20For%20Collaboration-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Hey+there!+I'm+Jeremiah+Jefry+%F0%9F%91%8B;Full-Stack+Developer+%7C+Tech+Enthusiast;Building+Amazing+Web+Experiences+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
+<!-- Profile Badges -->
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Jeremiah-Jefry&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Web%20Development%20%26%20Data%20Science-667EEA?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Available%20For%20Collaboration-764BA2?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Active%20Contributor-00D9FF?style=for-the-badge)
+
+</div>
 
 <!-- Animated Divider -->
+<div align="center">
+  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
 <br/>
 
-<!-- Animated Coding GIF -->
-<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<!-- About Me Section -->
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
@@ -36,26 +46,39 @@ I love building beautiful, functional web applications and turning complex probl
 
 <br>
 
-🔭 **Currently Working On:** Full-Stack Web Development Projects  
-🌱 **Currently Learning:** Data Science & Advanced Web Frameworks  
-👯 **Open to Collaborate:** Web Development & UI/UX Design Projects  
-💼 **Available For:** Freelance Work & Open Source Contributions  
-💬 **Ask Me About:** Python • JavaScript • React • Node.js • Django • Flask  
-📫 **Reach Me At:** g.jeremiahjefry06@gmail.com  
-⚡ **Fun Fact:** I turn coffee ☕ into code and bugs 🐛 into features!
+- 🔭 **Currently Working On:** Full-Stack Web Development Projects
+- 🌱 **Currently Learning:** Data Science & Advanced Web Frameworks
+- 👯 **Open to Collaborate:** Web Development & UI/UX Design Projects
+- 💼 **Available For:** Freelance Work & Open Source Contributions
+- 💬 **Ask Me About:** Python • JavaScript • React • Node.js • Django • Flask
+- 📫 **Reach Me At:** g.jeremiahjefry06@gmail.com
+- ⚡ **Fun Fact:** I turn coffee ☕ into code and bugs 🐛 into features!
 
-<br clear="right"/>
+</td>
+<td width="45%" valign="top">
 
+<img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+</td>
+</tr>
+</table>
 
-<!-- Animated Tech Stack Section -->
+<br>
+
+<!-- Animated Divider -->
+<div align="center">
+  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Arsenal
 
 <div align="center">
 
 ### 💻 Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -64,6 +87,7 @@ I love building beautiful, functional web applications and turning complex probl
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎨 Frontend Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -72,27 +96,32 @@ I love building beautiful, functional web applications and turning complex probl
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend Development
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🎨 UI/UX & Design
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 ### 📊 Data Science & ML
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 🛠️ Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -101,8 +130,15 @@ I love building beautiful, functional web applications and turning complex probl
 
 </div>
 
-<!-- Animated Separator -->
+<br>
+
+<!-- Animated Divider -->
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
