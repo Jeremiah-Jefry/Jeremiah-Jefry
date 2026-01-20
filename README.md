@@ -1,375 +1,152 @@
-<!-- Header Banner -->
-<div align="center">
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=JEREMIAH%20JEFRY&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</h1>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=280&section=header&text=JEREMIAH%20JEFRY&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=20)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer+%F0%9F%9A%80;Tech+Enthusiast+%F0%9F%92%BB;Problem+Solver+%E2%9A%A1;Building+Amazing+Experiences!" alt="Typing SVG" />
+  </a>
+</p>
 
-</div>
-
-<!-- Typing Animation -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Hey+there!+I'm+Jeremiah+Jefry+%F0%9F%91%8B;Full-Stack+Developer+%7C)](https://git.io/typing-svg)
-
-</div>
-
-<br>
-
-<!-- Profile Badges -->
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Jeremiah-Jefry&label=Profile%20Views&color=00D9FF&style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Web%20Development%20%26%20Data%20Science-667EEA?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Available%20For%20Collaboration-764BA2?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-Active%20Contributor-00D9FF?style=for-the-badge)
-
-</div>
-
-<!-- Animated Divider -->
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
-<br/>
-
-<!-- About Me Section -->
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
-
-Hey there! 👋 I'm **Jeremiah Jefry**, a passionate **Full-Stack Developer** from **Coimbatore, Tamil Nadu** 🇮🇳
-
-I love building beautiful, functional web applications and turning complex problems into elegant solutions. Whether it's crafting intuitive user interfaces or architecting robust backend systems, I'm always excited to learn and create something amazing!
-
-<br>
-
-- 🔭 **Currently Working On:** Full-Stack Web Development Projects
-- 🌱 **Currently Learning:** Data Science & Advanced Web Frameworks
-- 👯 **Open to Collaborate:** Web Development & UI/UX Design Projects
-- 💼 **Available For:** Freelance Work & Open Source Contributions
-- 💬 **Ask Me About:** Python • JavaScript • React • Node.js • Django • Flask
-- 📫 **Reach Me At:** g.jeremiahjefry06@gmail.com
-- ⚡ **Fun Fact:** I turn coffee ☕ into code and bugs 🐛 into features!
-
-</td>
-<td width="45%" valign="top">
-
-<img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Animated Divider -->
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎨 Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🎨 UI/UX & Design
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-
-### 📊 Data Science & ML
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🛠️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jeremiah-Jefry&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20Data%20Science-667EEA?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-764BA2?style=flat-square" alt="Status"/>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-</div>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeremiah-Jefry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeremiah-Jefry&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=888888" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiah-Jefry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremiah-Jefry&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Graph" />
-
-</div>
-
 <br>
 
-<!-- Animated Divider -->
-<div align="center">
+## 👨‍💻 About Me
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```javascript
+const jeremiah = {
+    location: "Coimbatore, Tamil Nadu 🇮🇳",
+    role: "Full-Stack Developer",
+    code: ["JavaScript", "Python", "Java", "C"],
+    currentFocus: "Data Science & Web Development",
+    architecture: ["SPA", "MVC", "Microservices"],
+    techCommunities: {
+        contributor: "Open Source Projects",
+        learning: "Advanced Web Frameworks"
+    },
+    challenge: "Building scalable solutions"
+};
+```
+
+<br clear="right"/>
+
+**🎯 Quick Facts:**
+- 🔨 Building full-stack web applications
+- 🌱 Exploring data science & ML
+- 🤝 Available for collaboration
+- ☕ Turning coffee into code
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-</div>
+<br>
 
+## 🛠️ Tech Stack
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Featured Projects
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,html,css,react,nodejs,flask,django,express,mongodb,mysql,git,github,vscode,figma,tailwind,bootstrap&perline=10" />
+</p>
 
-<div align="center">
-
-### 🌟 Showcasing My Best Work
-
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
-<!-- Project Cards -->
-<table>
-<tr>
-<td width="50%" valign="top">
+## 📊 GitHub Analytics
 
-### 🎓 [SkillSync](https://github.com/Jeremiah-Jefry/SkillSync)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeremiah-Jefry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeremiah-Jefry&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiah-Jefry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremiah-Jefry&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" />
+</p>
 
-[![SkillSync](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=SkillSync&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Jeremiah-Jefry/SkillSync)
-
-</div>
-
-**A collaborative skill-sharing platform** where users can teach and learn from each other. Features include user authentication, skill browsing, and real-time messaging.
-
-#### 🛠️ Built With:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-#### ✨ Key Features:
-- 👥 User Authentication System
-- 🔍 Advanced Skill Search
-- 💬 Real-time Messaging
-- 📊 Progress Tracking
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 [Rocket Trajectory Simulator](https://github.com/Jeremiah-Jefry/Rocket-Trajectory-Simlutaor)
-
-<div align="center">
-
-[![Rocket Simulator](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Rocket-Trajectory-Simlutaor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Jeremiah-Jefry/Rocket-Trajectory-Simlutaor)
-
-</div>
-
-**Physics-based rocket trajectory simulator** with real-time visualization. Calculate and visualize rocket paths with accurate physics modeling.
-
-#### 🛠️ Built With:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-
-#### ✨ Key Features:
-- 🎯 Accurate Physics Modeling
-- 📈 Real-time Visualization
-- ⚙️ Customizable Parameters
-- 📊 Data Export Capabilities
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 [Community Messenger](https://github.com/Jeremiah-Jefry/Community-Messenger)
-
-<div align="center">
-
-[![Community Messenger](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Community-Messenger&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Jeremiah-Jefry/Community-Messenger)
-
-</div>
-
-**Real-time community chat platform** built with modern web technologies. Connect with people, create channels, and communicate seamlessly.
-
-#### 🛠️ Built With:
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-#### ✨ Key Features:
-- ⚡ Real-time Messaging
-- 🏢 Multiple Channels
-- 👤 User Profiles
-- 🔔 Push Notifications
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 [Library Management System](https://github.com/Jeremiah-Jefry/Library-Management-System)
-
-<div align="center">
-
-[![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Library-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Jeremiah-Jefry/Library-Management-System)
-
-</div>
-
-**Comprehensive library management solution** for tracking books, members, and transactions. Streamline library operations with an intuitive interface.
-
-#### 🛠️ Built With:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=flat-square&logo=python&logoColor=blue)
-
-#### ✨ Key Features:
-- 📖 Book Management & Catalog
-- 👥 Member Registration & Tracking
-- 🔄 Issue & Return System
-- 📊 Reports & Analytics
-
-</td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
-<!-- View All Projects Button -->
+## 🚀 Featured Projects
+
 <div align="center">
+
+| | | |
+|:--:|:--:|:--:|
+| **🎓 SkillSync** | **🚀 Rocket Simulator** | **💬 Community Messenger** |
+| [![SkillSync](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=SkillSync&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)](https://github.com/Jeremiah-Jefry/SkillSync) | [![Rocket](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Rocket-Trajectory-Simlutaor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)](https://github.com/Jeremiah-Jefry/Rocket-Trajectory-Simlutaor) | [![Messenger](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Community-Messenger&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)](https://github.com/Jeremiah-Jefry/Community-Messenger) |
+| Skill-sharing platform with real-time messaging | Physics-based trajectory simulation | Real-time chat with multiple channels |
+| `HTML` `CSS` `JavaScript` | `Python` `NumPy` `Matplotlib` | `React` `Node.js` `Socket.io` |
+
+**📚 Library Management System**
+
+[![Library](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Library-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Jeremiah-Jefry/Library-Management-System)
+
+Complete library solution with book tracking & member management • `Python` `MySQL` `Tkinter`
+
+<br>
 
 <a href="https://github.com/Jeremiah-Jefry?tab=repositories">
-  <img src="https://img.shields.io/badge/🚀_View_All_My_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="View All Projects"/>
-</a>
-
-<a href="https://github.com/Jeremiah-Jefry">
-  <img src="https://img.shields.io/badge/⭐_Star_My_Repos-667EEA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Star Repos"/>
+  <img src="https://img.shields.io/badge/View_All_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
-
-<br>
-
-<!-- Animated Divider -->
-<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-</div>
+<br>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Contribution Snake
-
-<div align="center">
+## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeremiah-Jefry/Jeremiah-Jefry/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeremiah-Jefry/Jeremiah-Jefry/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jeremiah-Jefry/Jeremiah-Jefry/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Jeremiah-Jefry/Jeremiah-Jefry/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
-<!-- Animated Divider -->
-<div align="center">
+## 📫 Let's Connect
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Connect With Me
-
-<div align="center">
-
-<a href="mailto:g.jeremiahjefry06@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/jeremiah-jefry-george">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Jeremiah-Jefry">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.instagram.com/jefxy.jirah/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<br/><br/>
-
-<!-- Animated Mail -->
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Fire Email"/>
-
-</div>
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-
-### 🌟 Show some ❤️ by starring some of my repositories!
-
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+<p align="center">
+  <a href="mailto:g.jeremiahjefry06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jeremiah-jefry-george">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Jeremiah-Jefry">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jefxy.jirah/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 <br>
 
-<!-- Footer Wave -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=footer&animation=fadeIn)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20poetry%20written%20in%20logic" />
+</p>
 
-</div>
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="150">
+</p>
+
+<p align="center">
+  <b>⭐ Show some love by starring my repositories!</b>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%"/>
