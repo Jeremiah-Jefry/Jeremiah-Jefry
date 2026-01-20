@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=140&lines=Hey+there!+%F0%9F%91%8B+I'm+Jeremiah;Full-Stack+Developer+%F0%9F%9A%80;Python+%7C+JavaScript+%7C+React+%7C+Node.js;Building+Beautiful+%26+Functional+Web+Apps;Data+Science+Enthusiast+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=140&lines=Hey+there!+I'm+Jeremiah;Full-Stack+Developer;Python+|+JavaScript+|+React+|+Node.js;Building+Beautiful+and+Functional+Web+Apps;Data+Science+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -138,24 +138,58 @@ I love building beautiful, functional web applications and turning complex probl
 
 <div align="center">
 
-[![SkillSync](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=SkillSync&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Jeremiah-Jefry/SkillSync)
-[![Rocket Trajectory Simulator](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Rocket-Trajectory-Simulator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Jeremiah-Jefry/Rocket-Trajectory-Simulator)
+<table>
+<tr>
+<td width="33%" align="center">
+<a href="https://github.com/Jeremiah-Jefry/SkillSync">
+<img src="https://img.shields.io/badge/SkillSync-181717?style=for-the-badge&logo=github&logoColor=white" alt="SkillSync"/>
+</a>
+<br/>
+<sub><b>Skill-sharing Platform</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</td>
+<td width="33%" align="center">
+<a href="https://github.com/Jeremiah-Jefry/Rocket-Trajectory-Simulator">
+<img src="https://img.shields.io/badge/Rocket%20Trajectory%20Simulator-181717?style=for-the-badge&logo=github&logoColor=white" alt="Rocket Simulator"/>
+</a>
+<br/>
+<sub><b>Physics Simulation Tool</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Physics-00599C?style=flat&logo=python&logoColor=white"/>
+</td>
+<td width="33%" align="center">
+<a href="https://github.com/Jeremiah-Jefry/__Community-Messenger__">
+<img src="https://img.shields.io/badge/Community%20Messenger-181717?style=for-the-badge&logo=github&logoColor=white" alt="Messenger"/>
+</a>
+<br/>
+<sub><b>Real-time Chat Platform</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+</td>
+</tr>
+</table>
 
-[![Community Messenger](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=__Community-Messenger__&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Jeremiah-Jefry/__Community-Messenger__)
+<br/>
+
+<a href="https://github.com/Jeremiah-Jefry?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20My%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+</a>
 
 </div>
 
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🐍 Contribution Snake
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Activity & Contributions
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeremiah-Jefry/Jeremiah-Jefry/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeremiah-Jefry/Jeremiah-Jefry/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jeremiah-Jefry/Jeremiah-Jefry/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeremiah-Jefry&theme=tokyonight" width="100%" alt="Contribution Graph"/>
+
 </div>
 
 <!-- Animated Separator -->
