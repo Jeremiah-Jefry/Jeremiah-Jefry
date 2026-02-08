@@ -255,7 +255,7 @@ What drives me:
 <br>
 
 <!-- Animated Thank You Message -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&height=50&lines=Thanks+for+stopping+by!+✨" alt="Thanks" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=450&height=50&lines=Thanks+for+stopping+by!" alt="Thanks" />
 
 <br>
 
