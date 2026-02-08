@@ -263,22 +263,8 @@ What drives me:
 > ### *"The best way to predict the future is to create it."*
 > — Peter Drucker
 
-<br>
-
-<!-- Minimal Contact Row -->
-[![Email](https://img.shields.io/badge/📧_Email_Me-A855F7?style=for-the-badge&logoColor=white)](mailto:g.jeremiahjefry06@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/jeremiah-jefry-george)
-[![GitHub](https://img.shields.io/badge/🐙_Follow-181717?style=for-the-badge&logoColor=white)](https://github.com/Jeremiah-Jefry)
-
-<br>
-
 <!-- Animated Signature -->
 <img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=40&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=400&height=60&lines=Jeremiah+Jefry" alt="Signature" />
-
-<br>
-
-<!-- Simple Stats -->
-<img src="https://komarev.com/ghpvc/?username=Jeremiah-Jefry&label=Profile%20Views&color=A855F7&style=flat-square"/>
 
 <br><br>
 
