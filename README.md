@@ -8,8 +8,14 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
-<!-- Premium Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jeremiah%20Jefry&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Tech%20Innovator%20%7C%20Problem%20Solver&descAlignY=52&descSize=18"/>
+<!-- Unique 3D Animated Header -->
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=70&lines=JEREMIAH+JEFRY;FULL-STACK+DEVELOPER;CODE+ARCHITECT" alt="Name" />
+
+</div>
 
 <!-- Animated Introduction -->
 <div align="center">
@@ -92,21 +98,24 @@ I'm a passionate **Full-Stack Developer** from **Coimbatore, India** who loves c
 
 <div align="center">
 
-<!-- Stats Cards Row 1 -->
-<a href="https://github.com/Jeremiah-Jefry">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeremiah-Jefry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeremiah-Jefry&theme=tokyonight&hide_border=true&background=1a1b27&stroke=A960FF&ring=A960FF&fire=FF6B6B&currStreakNum=c9d1d9&currStreakLabel=A960FF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e"/>
-</a>
+<!-- Stats & Streak Side by Side -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeremiah-Jefry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Jeremiah-Jefry&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=A855F7&sideNums=FFFFFF&sideLabels=A855F7"/>
+
+<br><br>
+
+<!-- Languages Donut -->
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiah-Jefry&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
 
 <br><br>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremiah-Jefry&custom_title=Contribution%20Graph&hide_border=true&bg_color=1a1b27&color=A960FF&line=A960FF&point=FFFFFF&area=true&area_color=A960FF" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremiah-Jefry&custom_title=📈%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7" width="98%"/>
 
 <br><br>
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Jeremiah-Jefry&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jeremiah-Jefry&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" width="98%"/>
 
 </div>
 
@@ -134,23 +143,57 @@ I'm a passionate **Full-Stack Developer** from **Coimbatore, India** who loves c
 
 <div align="center">
 
-<a href="https://github.com/Jeremiah-Jefry/SkillSync">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=SkillSync&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A960FF&icon_color=A960FF" width="49%"/>
-</a>
-<a href="https://github.com/Jeremiah-Jefry/Rocket-Trajectory-Simlutaor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Rocket-Trajectory-Simlutaor&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A960FF&icon_color=A960FF" width="49%"/>
-</a>
-<a href="https://github.com/Jeremiah-Jefry/Community-Messenger">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Community-Messenger&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A960FF&icon_color=A960FF" width="49%"/>
-</a>
-<a href="https://github.com/Jeremiah-Jefry/Library-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Library-Management-System&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A960FF&icon_color=A960FF" width="49%"/>
-</a>
+<table>
+<tr>
+<td width="50%" align="center">
 
-<br><br>
+### 🎓 [SkillSync](https://github.com/Jeremiah-Jefry/SkillSync)
+**AI-powered portfolio & skill tracker**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%" align="center">
+
+### 🚀 [Rocket Simulator](https://github.com/Jeremiah-Jefry/Rocket-Trajectory-Simlutaor)
+**Flight simulator with real physics**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 💬 [Community Messenger](https://github.com/Jeremiah-Jefry/Community-Messenger)
+**Real-time group chat platform**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+</td>
+<td width="50%" align="center">
+
+### 📚 [Library System](https://github.com/Jeremiah-Jefry/Library-Management-System)
+**Desktop app for library management**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=flat-square&logo=python&logoColor=blue)
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <a href="https://github.com/Jeremiah-Jefry?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Projects-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
+  <img src="https://img.shields.io/badge/🚀%20View%20All%20Projects-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
 </a>
 
 </div>
