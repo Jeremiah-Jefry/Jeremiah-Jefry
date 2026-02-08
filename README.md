@@ -243,18 +243,49 @@ What drives me:
 
 </div>
 
-<br>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-<!-- Closing Animation -->
+<!-- Epic Footer Section -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" />
+<!-- Animated Music Bar -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="500"/>
 
-### Thanks for stopping by! Let's build something amazing together.
+<br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350"/>
+<!-- Animated Waving Hand -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="50" />
+
+<!-- Typing Goodbye Message -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing!+💡;See+you+in+the+code!+👨‍💻;Happy+Coding!+✨" alt="Goodbye" />
+
+<br><br>
+
+<!-- Animated Rocket Launch -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+
+<br><br>
+
+<!-- Animated Heart -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Heart" width="30"/> 
+**Made with passion & lots of ☕**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Heart" width="30"/>
+
+<br><br>
+
+<!-- Star the Repo -->
+<a href="https://github.com/Jeremiah-Jefry/Jeremiah-Jefry">
+  <img src="https://img.shields.io/badge/⭐_Star_This_Repo-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Star"/>
+</a>
+
+<br><br>
+
+<!-- Animated Snake Footer -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<!-- Premium Animated Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
+
