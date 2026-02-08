@@ -42,13 +42,13 @@
 
 I'm **Jeremiah Jefry**, a **Full-Stack Developer** from **Coimbatore, India** 🇮🇳 with a passion for building **scalable**, **high-performance** web applications. I transform complex problems into elegant, user-friendly solutions.
 
-**🔥 What drives me:**
-- 🚀 Building products that users **love** and businesses **rely on**
-- 🧠 Currently diving deep into **AI/ML & Cloud Architecture**
-- 💡 Obsessed with **clean code**, **performance optimization** & **best practices**
-- 🤝 Open to **collaborations**, **freelance projects** & **exciting opportunities**
+** What drives me:**
+-  Building products that users **love** and businesses **rely on**
+-  Currently diving deep into **AI/ML & Cloud Architecture**
+-  Obsessed with **clean code**, **performance optimization** & **best practices**
+-  Open to **collaborations**, **freelance projects** & **exciting opportunities**
 
-**⚡ Fun fact:** I believe the best code is written between midnight and 3 AM ☕
+** Fun fact:** I believe the best code is written between midnight and 3 AM ☕
 
 </td>
 <td width="45%" valign="middle">
