@@ -246,31 +246,29 @@ What drives me:
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- Unique Terminal Footer -->
+<!-- Elegant Footer Section -->
 <div align="center">
 
-```console
-jeremiah@github:~$ echo "Thanks for visiting my profile! 🚀"
-> Initiating connection...
-> Profile loaded successfully ✓
-> Visitor count updated ✓
-> 
-> ╔═══════════════════════════════════════════════════════════════════╗
-> ║                                                                   ║
-> ║   "The best way to predict the future is to create it." 🌟       ║
-> ║                                                                   ║
-> ║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-> ║                                                                   ║
-> ║    📧 g.jeremiahjefry06@gmail.com                                 ║
-> ║    💼 linkedin.com/in/jeremiah-jefry-george                       ║
-> ║    🐙 github.com/Jeremiah-Jefry                                   ║
-> ║                                                                   ║
-> ╚═══════════════════════════════════════════════════════════════════╝
->
-> Session ended. See you in the code! 👨‍💻
+<!-- Animated Goodbye Wave -->
+<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468c5f23.gif" width="60"/>
 
-jeremiah@github:~$ exit
-```
+<br>
+
+<!-- Animated Thank You Message -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&height=50&lines=Thanks+for+stopping+by!+✨" alt="Thanks" />
+
+<br>
+
+<!-- Inspirational Quote Card -->
+> ### *"The best way to predict the future is to create it."*
+> — Peter Drucker
+
+<br>
+
+<!-- Minimal Contact Row -->
+[![Email](https://img.shields.io/badge/📧_Email_Me-A855F7?style=for-the-badge&logoColor=white)](mailto:g.jeremiahjefry06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/jeremiah-jefry-george)
+[![GitHub](https://img.shields.io/badge/🐙_Follow-181717?style=for-the-badge&logoColor=white)](https://github.com/Jeremiah-Jefry)
 
 <br>
 
