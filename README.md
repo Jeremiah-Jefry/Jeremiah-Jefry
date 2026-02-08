@@ -237,55 +237,58 @@ What drives me:
 <!-- Quote Section -->
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="25" /> Random Dev Quote
+### 💭 Daily Inspiration
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- Epic Footer Section -->
+<!-- Unique Terminal Footer -->
 <div align="center">
 
-<!-- Animated Music Bar -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="500"/>
+```console
+jeremiah@github:~$ echo "Thanks for visiting my profile! 🚀"
+> Initiating connection...
+> Profile loaded successfully ✓
+> Visitor count updated ✓
+> 
+> ╔═══════════════════════════════════════════════════════════════════╗
+> ║                                                                   ║
+> ║   "The best way to predict the future is to create it." 🌟       ║
+> ║                                                                   ║
+> ║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+> ║                                                                   ║
+> ║    📧 g.jeremiahjefry06@gmail.com                                 ║
+> ║    💼 linkedin.com/in/jeremiah-jefry-george                       ║
+> ║    🐙 github.com/Jeremiah-Jefry                                   ║
+> ║                                                                   ║
+> ╚═══════════════════════════════════════════════════════════════════╝
+>
+> Session ended. See you in the code! 👨‍💻
+
+jeremiah@github:~$ exit
+```
+
+<br>
+
+<!-- Animated Signature -->
+<img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=40&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=400&height=60&lines=Jeremiah+Jefry" alt="Signature" />
+
+<br>
+
+<!-- Simple Stats -->
+<img src="https://komarev.com/ghpvc/?username=Jeremiah-Jefry&label=Profile%20Views&color=A855F7&style=flat-square"/>
 
 <br><br>
 
-<!-- Animated Waving Hand -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="50" />
-
-<!-- Typing Goodbye Message -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing!+💡;See+you+in+the+code!+👨‍💻;Happy+Coding!+✨" alt="Goodbye" />
-
-<br><br>
-
-<!-- Animated Rocket Launch -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-
-<br><br>
-
-<!-- Animated Heart -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Heart" width="30"/> 
-**Made with passion & lots of ☕**
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Heart" width="30"/>
-
-<br><br>
-
-<!-- Star the Repo -->
-<a href="https://github.com/Jeremiah-Jefry/Jeremiah-Jefry">
-  <img src="https://img.shields.io/badge/⭐_Star_This_Repo-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Star"/>
-</a>
-
-<br><br>
-
-<!-- Animated Snake Footer -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!-- Minimal Animated Element -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500"/>
 
 </div>
 
-<!-- Premium Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
+<!-- Clean Purple Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=footer"/>
 
