@@ -142,13 +142,43 @@ I love building beautiful, functional web applications and turning complex probl
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
+<!-- Animated Trophies -->
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jeremiah-Jefry&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+<br>
+
+<!-- Animated Stats Cards -->
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeremiah-Jefry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeremiah-Jefry&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=888888" />
+<a href="https://github.com/Jeremiah-Jefry">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeremiah-Jefry&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true&ring_color=F85D7F" alt="Jeremiah's GitHub Stats"/>
+</a>
+<a href="https://github.com/Jeremiah-Jefry">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeremiah-Jefry&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&currStreakLabel=F85D7F&sideNums=FFFFFF&sideLabels=F8D866&dates=888888" alt="Jeremiah's Streak"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiah-Jefry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremiah-Jefry&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Graph" />
+</div>
+
+<br>
+
+<!-- Languages & Activity Graph -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiah-Jefry&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=6" height="200em" alt="Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremiah-Jefry&theme=redical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&area_color=F85D7F&custom_title=📈%20Contribution%20Activity" height="200em" alt="Contribution Graph"/>
+
+</div>
+
+<br>
+
+<!-- Animated Coding GIF -->
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
 
 </div>
 
