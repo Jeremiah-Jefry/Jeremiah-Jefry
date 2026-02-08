@@ -31,27 +31,27 @@
 <!-- Wave Divider -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
-<!-- About Section with Animated GIF -->
+<!-- About Section -->
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="20" />
+> *"I don't just write code — I engineer solutions that make an impact."*
 
-I'm a passionate **Full-Stack Developer** from **Coimbatore, India** who loves crafting beautiful digital experiences. I believe in writing clean, elegant code that makes a difference.
+I'm **Jeremiah Jefry**, a **Full-Stack Developer** from **Coimbatore, India** 🇮🇳 with a passion for building **scalable**, **high-performance** web applications. I transform complex problems into elegant, user-friendly solutions.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Point" width="20" /> Currently exploring **AI/ML & Cloud Architecture**
+**🔥 What drives me:**
+- 🚀 Building products that users **love** and businesses **rely on**
+- 🧠 Currently diving deep into **AI/ML & Cloud Architecture**
+- 💡 Obsessed with **clean code**, **performance optimization** & **best practices**
+- 🤝 Open to **collaborations**, **freelance projects** & **exciting opportunities**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Point" width="20" /> Building impactful **Web Applications**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Point" width="20" /> Open to **Collaborations & Freelance**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Point" width="20" /> Fun fact: **I debug better at 3 AM** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="18" />
+**⚡ Fun fact:** I believe the best code is written between midnight and 3 AM ☕
 
 </td>
-<td width="40%" valign="middle">
+<td width="45%" valign="middle">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 
