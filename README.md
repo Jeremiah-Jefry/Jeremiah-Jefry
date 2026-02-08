@@ -19,45 +19,62 @@ jeremiah@github:~$ ./welcome.sh
 <!-- Animated Matrix Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<!-- Holographic Profile Card -->
+<!-- Unique Neofetch-Style Profile Card -->
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-```javascript
-// 🔮 SYSTEM IDENTITY LOADED...
-
-const jeremiah = {
-    pronouns: "he/him",
-    location: "Coimbatore, India 🇮🇳",
-    currentFocus: "Building the Future",
-    
-    code: {
-        languages: ["JavaScript", "Python", 
-                    "Java", "TypeScript", "C"],
-        frontend: ["React", "Next.js", "Tailwind"],
-        backend: ["Node.js", "Django", "Flask"],
-        database: ["MongoDB", "MySQL", "PostgreSQL"],
-        devOps: ["Docker", "Git", "Linux"]
-    },
-    
-    architecture: ["SPA", "MVC", "REST", "Microservices"],
-    currentlyLearning: "AI/ML & Cloud Architecture",
-    funFact: "I debug with console.log() ☕"
-};
+```
+                                                        
+       ██╗███████╗███████╗██████╗ ██╗   ██╗            jeremiah@universe
+       ██║██╔════╝██╔════╝██╔══██╗╚██╗ ██╔╝            -----------------
+       ██║█████╗  █████╗  ██████╔╝ ╚████╔╝             OS: Developer v24.0
+       ██║██╔══╝  ██╔══╝  ██╔══██╗  ╚██╔╝              Host: Coimbatore, India 🇮🇳
+  ██   ██║███████╗██║     ██║  ██║   ██║               Kernel: Full-Stack Engineer
+  ╚█████╔╝╚══════╝╚═╝     ╚═╝  ╚═╝   ╚═╝               Uptime: 19+ years of learning
+   ╚════╝                                              Shell: JavaScript/Python
+                                                       Resolution: 1920x1080 ideas/day
+  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿     Terminal: VSCode + vim
+  ⣿⣿⣿⡟⠛⠛⠛⠛⣿⣿⣿⣿⣿⣿⣿⠛⠛⠛⠛⢻⣿⣿⣿     DE: React + Node.js
+  ⣿⣿⣿⡇  ⢀⣀  ⣿⣿⣿⣿⣿⣿⣿  ⣀⡀  ⢸⣿⣿⣿     Theme: Matrix [Dark]
+  ⣿⣿⣿⣧⣤⣼⣿⣧⣤⣿⣿⣿⣿⣿⣿⣿⣤⣼⣿⣧⣤⣼⣿⣿⣿     CPU: Coffee-Powered Brain
+  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿     GPU: Creative Vision 3090
+                                                       Memory: Unlimited Curiosity
 ```
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<!-- RPG-Style Stats -->
+<div align="center">
 
-</td>
-</tr>
-</table>
+### ⚔️ CHARACTER STATS ⚔️
 
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  CLASS: Full-Stack Developer          LEVEL: Pro                 ║
+║  TITLE: Code Architect                ALIGNMENT: Chaotic Good    ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  ⚡ FRONTEND    ████████████████████░░░░  85%   React/Next.js    ║
+║  🔧 BACKEND     ███████████████████░░░░░  80%   Node/Django      ║
+║  🗄️ DATABASE    █████████████████░░░░░░░  75%   MongoDB/MySQL    ║
+║  🐍 PYTHON      ████████████████████████  95%   Expert           ║
+║  📜 JAVASCRIPT  ████████████████████████  95%   Expert           ║
+║  🎨 UI/UX       ██████████████████░░░░░░  78%   Figma/Design     ║
+║  ☁️ DEVOPS      ██████████████░░░░░░░░░░  65%   Docker/Linux     ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🎯 CURRENT QUEST: Mastering AI/ML & Cloud Architecture          ║
+║  💡 SPECIAL ABILITY: Turning ☕ into Code at 3 AM                 ║
+║  🏆 ACHIEVEMENTS: Debug Master • Git Wizard • Stack Overflow Pro ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+<!-- Animated Character -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </div>
 
 <!-- Animated Divider -->
