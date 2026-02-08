@@ -24,18 +24,13 @@ jeremiah@github:~$ ./welcome.sh
 
 <table>
 <tr>
-<td width="50%">
-
-<img align="right" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-</td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ```javascript
 // 🔮 SYSTEM IDENTITY LOADED...
 
 const jeremiah = {
-    pronouns: "he" | "him",
+    pronouns: "he/him",
     location: "Coimbatore, India 🇮🇳",
     currentFocus: "Building the Future",
     
@@ -50,11 +45,14 @@ const jeremiah = {
     
     architecture: ["SPA", "MVC", "REST", "Microservices"],
     currentlyLearning: "AI/ML & Cloud Architecture",
-    
-    funFact: "I debug with console.log() 
-              and mass coffee consumption ☕"
+    funFact: "I debug with console.log() ☕"
 };
 ```
+
+</td>
+<td width="50%" valign="top">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 </td>
 </tr>
@@ -75,7 +73,7 @@ const jeremiah = {
 
 <br><br>
 
-<!-- Animated Tech Badges -->
+<!-- Animated Tech Badges with Star Ratings -->
 <img src="https://img.shields.io/badge/JavaScript-★★★★★-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117">
 <img src="https://img.shields.io/badge/Python-★★★★★-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117">
 <img src="https://img.shields.io/badge/React-★★★★☆-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117">
@@ -93,7 +91,7 @@ const jeremiah = {
 <div align="center">
 
 <!-- 3D Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremiah-Jefry&custom_title=🔥%20Contribution%20Matrix&hide_border=true&bg_color=0d1117&color=00ff41&line=00ffff&point=ffffff&area=true&area_color=00ff4180" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremiah-Jefry&custom_title=🔥%20Contribution%20Matrix&hide_border=true&bg_color=0d1117&color=00ff41&line=00ffff&point=ffffff&area=true&area_color=00ff41" width="100%"/>
 
 <br>
 
@@ -117,7 +115,7 @@ const jeremiah = {
 
 </div>
 
-<!-- Animated Snake -->
+<!-- Animated Snake Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Contribution Snake
@@ -141,33 +139,41 @@ const jeremiah = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> SkillSync
+
 [![SkillSync](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=SkillSync&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF)](https://github.com/Jeremiah-Jefry/SkillSync)
+
 `HTML5` `CSS3` `JavaScript` `AI-Powered`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="30"> Rocket Trajectory Simulator
+
 [![Rocket](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Rocket-Trajectory-Simlutaor&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF)](https://github.com/Jeremiah-Jefry/Rocket-Trajectory-Simlutaor)
+
 `Python` `NumPy` `Matplotlib` `Physics`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30"> Community Messenger
+
 [![Messenger](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Community-Messenger&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF)](https://github.com/Jeremiah-Jefry/Community-Messenger)
+
 `React` `Node.js` `Socket.io` `Real-time`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30"> Library Management System
+
 [![Library](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Library-Management-System&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF)](https://github.com/Jeremiah-Jefry/Library-Management-System)
+
 `Python` `MySQL` `Tkinter` `Desktop App`
 
 </td>
@@ -217,7 +223,7 @@ const jeremiah = {
 jeremiah@github:~$ fortune | cowsay
 ```
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br>
 
