@@ -137,48 +137,28 @@ const jeremiah = {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/Jeremiah-Jefry/SkillSync">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=SkillSync&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF" width="49%"/>
+</a>
+<a href="https://github.com/Jeremiah-Jefry/Rocket-Trajectory-Simlutaor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Rocket-Trajectory-Simlutaor&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF" width="49%"/>
+</a>
+<a href="https://github.com/Jeremiah-Jefry/Community-Messenger">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Community-Messenger&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF" width="49%"/>
+</a>
+<a href="https://github.com/Jeremiah-Jefry/Library-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Library-Management-System&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF" width="49%"/>
+</a>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> SkillSync
+</div>
 
-[![SkillSync](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=SkillSync&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF)](https://github.com/Jeremiah-Jefry/SkillSync)
+<br>
 
-`HTML5` `CSS3` `JavaScript` `AI-Powered`
+<div align="center">
 
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="30"> Rocket Trajectory Simulator
-
-[![Rocket](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Rocket-Trajectory-Simlutaor&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF)](https://github.com/Jeremiah-Jefry/Rocket-Trajectory-Simlutaor)
-
-`Python` `NumPy` `Matplotlib` `Physics`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30"> Community Messenger
-
-[![Messenger](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Community-Messenger&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF)](https://github.com/Jeremiah-Jefry/Community-Messenger)
-
-`React` `Node.js` `Socket.io` `Real-time`
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30"> Library Management System
-
-[![Library](https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Library-Management-System&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF)](https://github.com/Jeremiah-Jefry/Library-Management-System)
-
-`Python` `MySQL` `Tkinter` `Desktop App`
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/Jeremiah-Jefry?tab=repositories">
+  <img src="https://img.shields.io/badge/🚀_View_All_Projects-00FF41?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" alt="View All Projects"/>
+</a>
 
 </div>
 
