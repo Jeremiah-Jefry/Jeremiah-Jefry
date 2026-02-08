@@ -137,24 +137,15 @@ const jeremiah = {
 
 <div align="center">
 
-<a href="https://github.com/Jeremiah-Jefry/SkillSync">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=SkillSync&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF" width="49%"/>
-</a>
-<a href="https://github.com/Jeremiah-Jefry/Rocket-Trajectory-Simlutaor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Rocket-Trajectory-Simlutaor&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF" width="49%"/>
-</a>
-<a href="https://github.com/Jeremiah-Jefry/Community-Messenger">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Community-Messenger&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF" width="49%"/>
-</a>
-<a href="https://github.com/Jeremiah-Jefry/Library-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiah-Jefry&repo=Library-Management-System&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF" width="49%"/>
-</a>
-
-</div>
+| 🎓 [**SkillSync**](https://github.com/Jeremiah-Jefry/SkillSync) | 🚀 [**Rocket Trajectory Simulator**](https://github.com/Jeremiah-Jefry/Rocket-Trajectory-Simlutaor) |
+|:---:|:---:|
+| AI-powered portfolio & skill tracker | Web-based rocket flight simulator with real physics |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) |
+| 💬 [**Community Messenger**](https://github.com/Jeremiah-Jefry/Community-Messenger) | 📚 [**Library Management System**](https://github.com/Jeremiah-Jefry/Library-Management-System) |
+| Real-time group chat platform | Desktop app for library operations |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=flat-square&logo=python&logoColor=blue) |
 
 <br>
-
-<div align="center">
 
 <a href="https://github.com/Jeremiah-Jefry?tab=repositories">
   <img src="https://img.shields.io/badge/🚀_View_All_Projects-00FF41?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" alt="View All Projects"/>
