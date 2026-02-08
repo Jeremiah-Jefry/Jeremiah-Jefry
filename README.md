@@ -249,22 +249,8 @@ What drives me:
 <!-- Elegant Footer Section -->
 <div align="center">
 
-<!-- Animated Goodbye Wave -->
-<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468c5f23.gif" width="60"/>
-
-<br>
-
-<!-- Animated Thank You Message -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=450&height=50&lines=Thanks+for+stopping+by!" alt="Thanks" />
-
-<br>
-
-<!-- Inspirational Quote Card -->
-> ### *"The best way to predict the future is to create it."*
-> — Peter Drucker
-
 <!-- Animated Signature -->
-<img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=40&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=400&height=60&lines=Jeremiah+Jefry" alt="Signature" />
+<img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=45&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=400&height=70&lines=Jeremiah+Jefry" alt="Signature" />
 
 <br><br>
 
