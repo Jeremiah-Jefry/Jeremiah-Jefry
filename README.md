@@ -98,24 +98,32 @@ I'm a passionate **Full-Stack Developer** from **Coimbatore, India** who loves c
 
 <div align="center">
 
-<!-- Stats & Streak Side by Side -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeremiah-Jefry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Jeremiah-Jefry&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=A855F7&sideNums=FFFFFF&sideLabels=A855F7"/>
+<!-- Reliable Badge-based Stats -->
+<img src="https://img.shields.io/badge/Total%20Commits-139+-A855F7?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Public%20Repos-10+-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Languages-5+-A855F7?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/Jeremiah-Jefry?style=for-the-badge&color=A855F7&logo=github&label=Followers"/>
 
 <br><br>
 
-<!-- Languages Donut -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiah-Jefry&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
+<!-- Streak Stats (Working) -->
+<img width="70%" src="https://streak-stats.demolab.com/?user=Jeremiah-Jefry&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=A855F7&sideNums=FFFFFF&sideLabels=A855F7"/>
 
 <br><br>
 
-<!-- Contribution Graph -->
+<!-- Contribution Graph (Working) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremiah-Jefry&custom_title=📈%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7" width="98%"/>
 
 <br><br>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Jeremiah-Jefry&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" width="98%"/>
+<!-- Language Progress Bars (Reliable) -->
+### 💻 Top Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 </div>
 
