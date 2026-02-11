@@ -96,10 +96,16 @@ What drives me:
 <div align="center">
 
 <!-- Reliable Badge-based Stats -->
-<img src="https://img.shields.io/badge/Total%20Commits-139+-A855F7?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Public%20Repos-10+-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Languages-5+-A855F7?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Total%20Commits-200+-A855F7?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Public%20Repos-14-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Languages-7+-A855F7?style=for-the-badge&logo=code&logoColor=white"/>
 <img src="https://img.shields.io/github/followers/Jeremiah-Jefry?style=for-the-badge&color=A855F7&logo=github&label=Followers"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Total%20Contributions-164-00D26A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Current%20Streak-1%20Day-FF6B6B?style=for-the-badge&logo=fire&logoColor=white"/>
+<img src="https://img.shields.io/badge/Longest%20Streak-5%20Days-FFD700?style=for-the-badge&logo=trophy&logoColor=white"/>
 
 <br><br>
 
