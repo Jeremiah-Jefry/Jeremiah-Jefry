@@ -259,6 +259,6 @@ What drives me:
 
 </div>
 
-<!-- Violet Animated Footer -->
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100%"/>
+<!-- Animated Wave Footer -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
