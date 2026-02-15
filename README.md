@@ -15,11 +15,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%"/>
 
 <!-- Name with Typing Animation -->
-<img src="./assets/purple-code-icon.svg" width="50"/>
-&nbsp;&nbsp;
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=B24BF3&center=true&vCenter=true&width=700&height=70&lines=JEREMIAH+JEFRY;%3C%2F%3E+DEVELOPER;TECH+INNOVATOR" alt="Name" />
-&nbsp;&nbsp;
-<img src="./assets/purple-code-icon.svg" width="50"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=E8D5F5&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Full-Stack+Developer+%7C+Tech+Innovator+%7C+Problem+Solver;Building+Scalable+Web+Applications+%F0%9F%9A%80;Clean+Code+%7C+Performance+%7C+Innovation+%E2%9C%A8" alt="Tagline" />
 
