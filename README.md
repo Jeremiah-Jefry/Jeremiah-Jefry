@@ -1,9 +1,9 @@
 <!-- 
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ║
-║   ░░░░░░░░░░░░░░░░░░░░  JEREMIAH JEFRY's PORTFOLIO  ░░░░░░░░░░░░░░░░░░░░░   ║
-║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ║
+║   ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡   ║
+║   ⚡⚡⚡⚡⚡⚡⚡⚡⚡  JEREMIAH JEFRY's PORTFOLIO  ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡   ║
+║   ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡   ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
@@ -11,25 +11,25 @@
 <!-- 🚀 HEADER SECTION -->
 <div align="center">
 
-<!-- Animated 3D Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%"/>
+<!-- Futuristic Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003545,25:006D77,50:00D9FF,75:00B4D8,100:0057FF&height=220&section=header&text=&fontSize=1&animation=twinkling" width="100%"/>
 
 <!-- Name with Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=70&lines=JEREMIAH+JEFRY" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=70&lines=JEREMIAH+JEFRY" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Full-Stack+Developer+%7C+Tech+Innovator+%7C+Problem+Solver" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=E0F7FA&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Full-Stack+Developer+%7C+Tech+Innovator+%7C+Problem+Solver" alt="Tagline" />
 
 <br><br>
 
 <!-- Status Badges -->
-<img src="https://img.shields.io/badge/🎯_Focus-Full%20Stack%20Development-A855F7?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/📍_Location-India%20🇮🇳-A855F7?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🎯_Focus-Full%20Stack%20Development-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/📍_Location-India%20🇮🇳-00B4D8?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/✨_Status-Open%20To%20Work-00D26A?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
-<!-- Purple Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+<!-- Cyan Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <!-- About Section -->
 <table>
