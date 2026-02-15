@@ -96,20 +96,20 @@ What drives me:
 <div align="center">
 
 <!-- Reliable Badge-based Stats -->
-<img src="https://img.shields.io/badge/Total%20Commits-200+-A855F7?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Public%20Repos-14-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Languages-7+-A855F7?style=for-the-badge&logo=code&logoColor=white"/>
-<img src="https://img.shields.io/github/followers/Jeremiah-Jefry?style=for-the-badge&color=A855F7&logo=github&label=Followers"/>
+<img src="https://img.shields.io/badge/Total%20Commits-200+-00D9FF?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Public%20Repos-14-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Languages-7+-00D9FF?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/Jeremiah-Jefry?style=for-the-badge&color=00D9FF&logo=github&label=Followers"/>
 
 <br><br>
 
 <!-- Streak Stats -->
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeremiah-Jefry&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=A855F7&sideNums=FFFFFF&sideLabels=A855F7"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeremiah-Jefry&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=00D9FF"/>
 
 <br><br>
 
 <!-- Contribution Graph (Working) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremiah-Jefry&custom_title=📈%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremiah-Jefry&custom_title=📈%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" width="98%"/>
 
 <br><br>
 
@@ -198,7 +198,7 @@ What drives me:
 <br>
 
 <a href="https://github.com/Jeremiah-Jefry?tab=repositories">
-  <img src="https://img.shields.io/badge/🚀%20View%20All%20Projects-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
+  <img src="https://img.shields.io/badge/🚀%20View%20All%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
 </a>
 
 </div>
@@ -227,8 +227,8 @@ What drives me:
 <br><br>
 
 <!-- Profile Stats -->
-<img src="https://komarev.com/ghpvc/?username=Jeremiah-Jefry&label=Profile%20Views&color=A960FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Jeremiah-Jefry?label=Followers&style=for-the-badge&color=A960FF"/>
+<img src="https://komarev.com/ghpvc/?username=Jeremiah-Jefry&label=Profile%20Views&color=00D9FF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Jeremiah-Jefry?label=Followers&style=for-the-badge&color=00D9FF"/>
 
 </div>
 
@@ -250,7 +250,7 @@ What drives me:
 <div align="center">
 
 <!-- Animated Signature -->
-<img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=45&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=400&height=70&lines=Jeremiah+Jefry" alt="Signature" />
+<img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=45&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&height=70&lines=Jeremiah+Jefry" alt="Signature" />
 
 <br><br>
 
@@ -259,6 +259,6 @@ What drives me:
 
 </div>
 
-<!-- Clean Purple Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=footer"/>
+<!-- Clean Cyan Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003545,25:006D77,50:00D9FF,75:00B4D8,100:0057FF&height=120&section=footer"/>
 
