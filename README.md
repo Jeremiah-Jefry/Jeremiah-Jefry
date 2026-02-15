@@ -28,7 +28,7 @@
 </div>
 
 <!-- Purple Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+<img src="./assets/purple-divider.svg" width="100%"/>
 
 <!-- About Section -->
 <table>
@@ -59,7 +59,7 @@ What drives me:
 </table>
 
 <!-- Animated Divider Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="./assets/purple-divider.svg" width="100%"/>
 
 <!-- Tech Stack Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Stack
@@ -87,7 +87,7 @@ What drives me:
 <br>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="./assets/purple-divider.svg" width="100%"/>
 
 <!-- GitHub Stats Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" /> GitHub Analytics
@@ -124,7 +124,7 @@ What drives me:
 </div>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="./assets/purple-divider.svg" width="100%"/>
 
 <!-- Contribution Snake -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> Contribution Snake
@@ -140,7 +140,7 @@ What drives me:
 </div>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="./assets/purple-divider.svg" width="100%"/>
 
 <!-- Featured Projects -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> Featured Projects
@@ -203,7 +203,7 @@ What drives me:
 </div>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="./assets/purple-divider.svg" width="100%"/>
 
 <!-- Connect Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" /> Let's Connect
@@ -243,7 +243,7 @@ What drives me:
 </div>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="./assets/purple-divider.svg" width="100%"/>
 
 <!-- Elegant Footer Section -->
 <div align="center">
