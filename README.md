@@ -12,7 +12,7 @@
 <div align="center">
 
 <!-- Futuristic Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:003545,25:006D77,50:00D9FF,75:00B4D8,100:0057FF&height=220&section=header&text=&fontSize=1&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:003545,25:006D77,50:00D9FF,75:00B4D8,100:0057FF&height=220&section=header&text=&fontSize=1&animation=twinkling" width="100%"/>
 
 <!-- Name with Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=70&lines=JEREMIAH+JEFRY" alt="Name" />
@@ -260,5 +260,5 @@ What drives me:
 </div>
 
 <!-- Clean Cyan Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:003545,25:006D77,50:00D9FF,75:00B4D8,100:0057FF&height=200&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:003545,25:006D77,50:00D9FF,75:00B4D8,100:0057FF&height=200&section=footer"/>
 
