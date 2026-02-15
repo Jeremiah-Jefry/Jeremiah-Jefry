@@ -12,7 +12,7 @@
 <div align="center">
 
 <!-- Futuristic Animated Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%"/>
 
 <!-- Name with Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=70&lines=JEREMIAH+JEFRY" alt="Name" />
@@ -260,5 +260,5 @@ What drives me:
 </div>
 
 <!-- Futuristic Cyan Footer -->
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" width="100%"/>
 
