@@ -15,21 +15,21 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%"/>
 
 <!-- Name with Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=70&lines=JEREMIAH+JEFRY" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=B24BF3&center=true&vCenter=true&width=700&height=70&lines=JEREMIAH+JEFRY" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=E0F7FA&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Full-Stack+Developer+%7C+Tech+Innovator+%7C+Problem+Solver" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=E8D5F5&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Full-Stack+Developer+%7C+Tech+Innovator+%7C+Problem+Solver" alt="Tagline" />
 
 <br><br>
 
 <!-- Status Badges -->
-<img src="https://img.shields.io/badge/🎯_Focus-Full%20Stack%20Development-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/📍_Location-India%20🇮🇳-00B4D8?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🎯_Focus-Full%20Stack%20Development-B24BF3?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/📍_Location-India%20🇮🇳-9333EA?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/✨_Status-Open%20To%20Work-00D26A?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
-<!-- Cyan Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<!-- Purple Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 <!-- About Section -->
 <table>
@@ -96,20 +96,20 @@ What drives me:
 <div align="center">
 
 <!-- Reliable Badge-based Stats -->
-<img src="https://img.shields.io/badge/Total%20Commits-200+-00D9FF?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Public%20Repos-14-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Languages-7+-00D9FF?style=for-the-badge&logo=code&logoColor=white"/>
-<img src="https://img.shields.io/github/followers/Jeremiah-Jefry?style=for-the-badge&color=00D9FF&logo=github&label=Followers"/>
+<img src="https://img.shields.io/badge/Total%20Commits-200+-B24BF3?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Public%20Repos-14-B24BF3?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Languages-7+-B24BF3?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/Jeremiah-Jefry?style=for-the-badge&color=B24BF3&logo=github&label=Followers"/>
 
 <br><br>
 
 <!-- Streak Stats -->
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeremiah-Jefry&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=00D9FF"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeremiah-Jefry&theme=tokyonight&hide_border=true&background=0D1117&stroke=B24BF3&ring=B24BF3&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=B24BF3&sideNums=FFFFFF&sideLabels=B24BF3"/>
 
 <br><br>
 
 <!-- Contribution Graph (Working) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremiah-Jefry&custom_title=📈%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremiah-Jefry&custom_title=📈%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=B24BF3&line=B24BF3&point=FFFFFF&area=true&area_color=B24BF3" width="98%"/>
 
 <br><br>
 
@@ -198,7 +198,7 @@ What drives me:
 <br>
 
 <a href="https://github.com/Jeremiah-Jefry?tab=repositories">
-  <img src="https://img.shields.io/badge/🚀%20View%20All%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
+  <img src="https://img.shields.io/badge/🚀%20View%20All%20Projects-B24BF3?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
 </a>
 
 </div>
@@ -227,8 +227,8 @@ What drives me:
 <br><br>
 
 <!-- Profile Stats -->
-<img src="https://komarev.com/ghpvc/?username=Jeremiah-Jefry&label=Profile%20Views&color=00D9FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Jeremiah-Jefry?label=Followers&style=for-the-badge&color=00D9FF"/>
+<img src="https://komarev.com/ghpvc/?username=Jeremiah-Jefry&label=Profile%20Views&color=B24BF3&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Jeremiah-Jefry?label=Followers&style=for-the-badge&color=B24BF3"/>
 
 </div>
 
@@ -250,7 +250,7 @@ What drives me:
 <div align="center">
 
 <!-- Animated Signature -->
-<img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=45&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&height=70&lines=Jeremiah+Jefry" alt="Signature" />
+<img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=45&duration=4000&pause=1000&color=B24BF3&center=true&vCenter=true&width=400&height=70&lines=Jeremiah+Jefry" alt="Signature" />
 
 <br><br>
 
