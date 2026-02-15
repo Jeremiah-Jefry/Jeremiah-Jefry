@@ -259,6 +259,6 @@ What drives me:
 
 </div>
 
-<!-- Futuristic Cyan Footer -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" width="100%"/>
+<!-- Violet Animated Footer -->
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100%"/>
 
