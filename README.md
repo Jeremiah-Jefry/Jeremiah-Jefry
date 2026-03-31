@@ -104,7 +104,7 @@ What drives me:
 <br><br>
 
 <!-- Contribution Graph (Working) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremiah-Jefry&custom_title=📈%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=B24BF3&line=B24BF3&point=FFFFFF&area=true&area_color=B24BF3" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremiah-Jefry&custom_title=%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=B24BF3&line=B24BF3&point=FFFFFF&area=true&area_color=B24BF3" width="98%"/>
 
 <br><br>
 
