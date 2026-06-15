@@ -64,7 +64,7 @@ What drives me:
 
 <!-- Languages -->
 <h4>💻 Languages</h4>
-<a href="#"><img src="https://skillicons.dev/icons?i=js,py,c&theme=dark" alt="Languages"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=js,py,c,ts&theme=dark" alt="Languages"/></a>
 
 <!-- Frontend -->
 <h4>🎨 Frontend</h4>
