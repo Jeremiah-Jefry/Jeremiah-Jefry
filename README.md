@@ -64,7 +64,7 @@ What drives me:
 
 <!-- Languages -->
 <h4>💻 Languages</h4>
-<a href="#"><img src="https://skillicons.dev/icons?i=js,ts,py,java,c&theme=dark" alt="Languages"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=js,py,c&theme=dark" alt="Languages"/></a>
 
 <!-- Frontend -->
 <h4>🎨 Frontend</h4>
@@ -72,11 +72,11 @@ What drives me:
 
 <!-- Backend -->
 <h4>⚙️ Backend</h4>
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" alt="Backend"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,django,flask&theme=dark" alt="Backend"/></a>
 
 <!-- Database & Tools -->
 <h4>🗄️ Database & Tools</h4>
-<a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git,linux,vscode,figma&theme=dark" alt="Tools"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git,vscode,figma&theme=dark" alt="Tools"/></a>
 
 </div>
 
