@@ -72,7 +72,7 @@ What drives me:
 
 <!-- Backend -->
 <h4>⚙️ Backend</h4>
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,django,flask&theme=dark" alt="Backend"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,django,flask,fastapi&theme=dark" alt="Backend"/></a>
 
 <!-- Database & Tools -->
 <h4>🗄️ Database & Tools</h4>
