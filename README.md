@@ -99,7 +99,7 @@ What drives me:
 <br><br>
 
 <!-- Streak Stats -->
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeremiah-Jefry&theme=tokyonight&hide_border=true&background=0D1117&stroke=B24BF3&ring=B24BF3&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=B24BF3&sideNums=FFFFFF&sideLabels=B24BF3"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=Jeremiah-Jefry&theme=tokyonight&hide_border=true&background=0D1117&stroke=B24BF3&ring=B24BF3&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=B24BF3&sideNums=FFFFFF&sideLabels=B24BF3"/>
 
 <br><br>
 
