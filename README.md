@@ -15,9 +15,9 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%"/>
 
 <!-- Name with Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=B24BF3&center=true&vCenter=true&width=700&height=70&lines=JEREMIAH+JEFRY;DEVELOPER;TECH+INNOVATOR" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=B24BF3&center=true&vCenter=true&width=700&height=70&lines=JEREMIAH+JEFRY;DEVELOPER;BUILDING+%26+LEARNING" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=E8D5F5&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Full-Stack+Developer+%7C+Tech+Innovator+%7C+Problem+Solver;Building+Scalable+Web+Applications;Clean+Code+%7C+Performance+%7C+Innovation" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=E8D5F5&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Aspiring+Full-Stack+Developer+%7C+Learner+%7C+Builder;Learning+by+Building+Real+Applications;Clean+Code+%7C+Growth+Mindset+%7C+Curiosity" alt="Tagline" />
 
 <br><br>
 
@@ -33,15 +33,15 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
 
-> *"I don't just write code — I engineer solutions that make an impact."*
+> *"I learn by building — every project teaches me something new."*
 
-I'm **Jeremiah Jefry**, a **Full-Stack Developer** from **Coimbatore, India** 🇮🇳 with a passion for building **scalable**, **high-performance** web applications. I transform complex problems into elegant, user-friendly solutions.
+I'm **Jeremiah Jefry**, a developer from **Coimbatore, India** 🇮🇳 currently learning and building in the field of **Full-Stack Development**. I enjoy turning ideas into working applications while continuously improving my skills across **frontend**, **backend**, **databases**, **APIs**, and **deployment**.
 
 What drives me:
--  Building products that users **love** and businesses **rely on**
--  Currently diving deep into **AI/ML & Cloud Architecture**
--  Obsessed with **clean code**, **performance optimization** & **best practices**
--  Open to **collaborations**, **freelance projects** & **exciting opportunities**
+-  Building projects to strengthen my **Full-Stack Development** skills
+-  Exploring **AI/ML & Cloud technologies** as part of my learning journey
+-  Continuously improving my approach to **clean code**, **problem-solving** & **best practices**
+-  Open to **collaborations**, **open-source contributions** & **learning opportunities**
 
 ** Fun fact:** I believe the best code is written between midnight and 3 AM ☕
 
@@ -58,7 +58,7 @@ What drives me:
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 <!-- Tech Stack Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Stack — Technologies I'm Learning & Working With
 
 <div align="center">
 
