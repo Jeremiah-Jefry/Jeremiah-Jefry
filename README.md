@@ -68,7 +68,7 @@ What drives me:
 
 <!-- Frontend -->
 <h4>🎨 Frontend</h4>
-<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" alt="Frontend"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" alt="Frontend"/></a>
 
 <!-- Backend -->
 <h4>⚙️ Backend</h4>
@@ -115,7 +115,6 @@ What drives me:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 </div>
 
